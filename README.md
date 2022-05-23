@@ -2,7 +2,7 @@
 
 This [GitHub Action](https://github.com/features/actions) sets up Redis cluster with 3 master and 3 slave in a single container for your testing purpose.
 
-The image used is from https://hub.docker.com/r/vishnunair/docker-redis-cluster
+The image used is from https://hub.docker.com/repository/docker/aryaveerj/redis-cluster
 
 # Usage
 
